@@ -46,7 +46,7 @@ I'm always eager to connect with fellow learners, enthusiasts, and industry prof
 
 <!-- LinkedIn and GitHub Buttons -->
 <div align="center">
-  <a href="in/abdullah-rasool/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-rasool/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="https://github.com/Abdullah-Rasool"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub"></a>
 </div>
 
